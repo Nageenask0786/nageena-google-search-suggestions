@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.google-img {
+  height: 120px;
+  width: 320px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  cursor: pointer;
+}
+.icon {
+  height: 25px;
+  width: 30px;
+}
+.flex {
+  display: flex;
+}
+.card {
+  background-color: #ffffff;
+  width: 500px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  margin-top: 15px;
+}
